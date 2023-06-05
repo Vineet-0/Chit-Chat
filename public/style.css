@@ -49,7 +49,7 @@ section.chat__section {
     margin-left: 10px;
 }
 .message__area{
-    height: 500px;
+    height: 75vh;
     padding: 16px;
     display: flex;
     flex-direction: column;
@@ -67,9 +67,9 @@ textarea {
 }
 
 .message {
-    padding: 20px; 
-    border-radius: 10px; 
-    margin-bottom: 40px;
+    padding: 5px 10px; 
+    border-radius: 40px; 
+    margin-bottom: 25px;
     max-width: 300px;
     position: relative;
 }
