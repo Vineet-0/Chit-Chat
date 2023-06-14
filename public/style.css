@@ -6,15 +6,17 @@
 }
 
 :root{
-    /* --primary-color: #fff;
-    --secondary-color: #000; */
-    --primary-color: #fff;
-    --secondary-color: #000;
-}
-
-.dark-theme{
     --primary-color: #000;
     --secondary-color: #fff;
+    /* --primary-color: #fff;
+    --secondary-color: #000; */
+}
+
+.light-theme{
+    /* --primary-color: #000;
+    --secondary-color: #fff; */
+    --primary-color: #fff;
+    --secondary-color: #000;
 }
 
 body {
