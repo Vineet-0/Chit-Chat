@@ -58,6 +58,15 @@ section.chat__section {
     flex-direction: column;
     overflow-y: auto;
     padding-top: 40px;
+    /* &::-webkit-scrollbar {
+        width: 0.2rem;
+        &::-ms-thumb{
+            background-color: var(#676767);
+            color: #3d24ff;
+            width: 2rem;
+            border-radius: 1rem;
+        }
+    } */
 }
 textarea {
     width: 100%;
