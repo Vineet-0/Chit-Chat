@@ -86,7 +86,7 @@ textarea {
     /* border-radius: 15px;  */
     margin-bottom: 25px;
     max-width: 50%;
-    color: var(--secondary-color);
+    color: #000;
     position: relative;
 }
 .incoming {
