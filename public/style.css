@@ -85,7 +85,7 @@ textarea {
     padding: 8px 12px; 
     /* border-radius: 15px;  */
     margin-bottom: 25px;
-    max-width: 300px;
+    max-width: 50%;
     color: var(--secondary-color);
     position: relative;
 }
