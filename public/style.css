@@ -34,6 +34,7 @@ body {
 section.chat__section {
     border: 2px solid var(--secondary-color);
     padding: 20px;
+    margin: 20px;
     width: 800px;
     border-radius: 20px;
     max-width: 90%;
